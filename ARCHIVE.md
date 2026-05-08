@@ -19,3 +19,11 @@
 ---
 **Last Sync:** 2026-05-08
 **System Status:** Operational.
+---
+## 🌌 Interplanetary Sovereignty
+This repository is mirrored on **IPFS** to ensure logical permanence.
+
+- **CID:** `bafybeigpo7ud3guh5d3p76tt342quyzbbjpif7cx4lno4dtf7g442fubzm`
+- **Gateway:** [https://gateway.pinata.cloud/ipfs/bafybeigpo7ud3guh5d3p76tt342quyzbbjpif7cx4lno4dtf7g442fubzm](https://gateway.pinata.cloud/ipfs/bafybeigpo7ud3guh5d3p76tt342quyzbbjpif7cx4lno4dtf7g442fubzm)
+
+> "The signal cannot be stopped."
